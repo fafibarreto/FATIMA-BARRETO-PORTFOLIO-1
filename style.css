@@ -222,7 +222,7 @@ top: 47px;
     .card-text{
         width: 40%;
         letter-spacing: 1px;
-        color:  #1E1E2A;
+        color:  #000000;
     }
 
     .card-wrapper{
@@ -284,5 +284,5 @@ top: 47px;
      display: flex;
      align-items: center;
      justify-content: center;
-     color: #1E1E2A;
+     color: #000000;
  }
