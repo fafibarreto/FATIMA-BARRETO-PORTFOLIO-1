@@ -67,9 +67,10 @@ a:hover{
 /* Menu Hamburguer*/
 
 .checkbox-container{
+    background-color: #ffffff; //
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: ;
 }
 
 .checkbox{
@@ -118,7 +119,7 @@ a:hover{
     position: absolute;
     top: 28px;
     right: 30px;
-    background-color: #ffffff;
+    background-color: transparent;
     height: 4px;
     width: 10px;
     border-radius: 50%;
