@@ -118,7 +118,7 @@ a:hover{
     position: absolute;
     top: 28px;
     right: 30px;
-    background-color: transparent;
+    background-color: #AA2EE6;
     height: 4px;
     width: 10px;
     border-radius: 50%;
@@ -232,6 +232,8 @@ top: 47px;
         width: 40%;
         letter-spacing: 1px;
         color:  #000000;
+        padding: 4rem;
+        
     }
 
     .card-wrapper{
