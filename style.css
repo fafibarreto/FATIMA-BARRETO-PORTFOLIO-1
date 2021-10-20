@@ -13,10 +13,10 @@ body{
 .header-container{
     height: 100vh;
     width: 100vw;
-   /* background-color:#AA2EE6 ; */
+    background-color:#AA2EE6 ; 
     background-image: url('./img/fafi3.png');
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: center;
     background-size: contain;
     display: flex;
     flex-direction: column;
